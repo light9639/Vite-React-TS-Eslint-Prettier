@@ -1,10 +1,12 @@
-# :zap: Vite + React + TypeScript + Eslint + Prettier Template
+# :memo: Vite + React + TypeScript + Eslint + Prettier Template
 
-:octocat: Vite, React JS, TypeScript, Eslint, Prettier를 이용한 새로운 프로젝트를 개발하려고 할때, 그냥 다운 받아서 사용하시면 됩니다.
-
-#### **:rocket: Vercel Deploy: https://vite-react-ts-eslint-prettier.vercel.app**
+:octocat: 바로 가기 : https://light9639.github.io/Vite-React-TS-Eslint-Prettier/
 
 ![image](https://user-images.githubusercontent.com/70432453/170648662-2ff424b9-74e9-4754-a04d-512fe1496a3b.png)
+
+
+:sparkles: :memo: Vite, React JS, TypeScript, Eslint, Prettier를 이용한 새로운 프로젝트를 개발하려고 할때, 그냥 다운 받아서 사용하시면 됩니다. :sparkles:
+
 
 ## **📋 사용가능한 기능들**
 

@@ -1,6 +1,7 @@
-import logo from '~/logo.svg';
+import logo from '@src/logo.svg';
+import React from 'react';
 
-const Hello = () => {
+const Hello: React.FC = () => {
   return (
     <div
       style={{
