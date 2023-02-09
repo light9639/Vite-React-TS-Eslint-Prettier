@@ -35,7 +35,7 @@ const Hello: React.FC = () => {
         <a
           style={{ color: '#F24C4C' }}
           target='_blank'
-          href='https://github.com/igdev116/vite-react-ts-eslint-prettier'
+          href='https://github.com/light9639/Vite-React-TS-Eslint-Prettier'
           rel='noreferrer'
         >
           Github
